@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">I love programming, graphics, and music...ALL AT ONCE!</h3>
 
-- 🔭 I’m currently working on **FLYDE**
+- 🔭 I’m currently working on **Mapit IoT**
 
-- 🌱 I’m currently learning **vue, react**
+- 🌱 I’m currently learning **nuxt, react**
 
 - 👨‍💻 All of my projects are available at [https://ironmike.es](https://ironmike.es)
 
