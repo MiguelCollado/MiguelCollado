@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">I love programming, graphics, and music...ALL AT ONCE!</h3>
 
-- 🔭 I’m currently working on **Mapit IoT**
+- 🔭 I’m currently working on **Next Digital**
 
 - 🌱 I’m currently learning **nuxt, react**
 
