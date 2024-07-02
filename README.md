@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **nuxt, react**
 
-- 👨‍💻 All of my projects are available at [https://ironmike.es](https://ironmike.es)
+- 👨‍💻 All of my projects are available at [https://ironmike.dev](https://ironmike.dev)
 
-- 📫 How to reach me **hi@ironmike.es**
+- 📫 How to reach me **hi@ironmike.dev**
 
-- 📄 Know about my experiences [https://ironmike.es](https://ironmike.es)
+- 📄 Know about my experiences [https://ironmike.dev](https://ironmike.dev)
 
 - ⚡ Fun fact **I like trains**
 
