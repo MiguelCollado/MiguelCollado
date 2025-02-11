@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hi@ironmike.dev**
 
-- 📄 Know about my experiences [https://ironmike.dev](https://ironmike.dev)
+- 📄 Know about my experiences [https://cv.ironmike.dev](https://cv.ironmike.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
